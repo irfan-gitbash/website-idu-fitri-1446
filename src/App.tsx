@@ -76,7 +76,7 @@ function App() {
       {/* Audio Element */}
       <audio id="eidMusic" loop>
         <source
-          src="/public/music/Download-MP3-Takbiran-1.mp3"
+          src="https://res.cloudinary.com/dce6p47pg/video/upload/v1743338466/Download-MP3-Takbiran-1_desed1.mp3"
           type="audio/mpeg"
         />
       </audio>
